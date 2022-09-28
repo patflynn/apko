@@ -14,8 +14,8 @@ require (
 	github.com/package-url/packageurl-go v0.1.1-0.20220203205134-d70459300c8a
 	github.com/sigstore/cosign v1.6.1-0.20220326192931-34d08380a965
 	github.com/spf13/cobra v1.4.0
-	github.com/stretchr/testify v1.7.4
-	gitlab.alpinelinux.org/alpine/go v0.5.0
+	github.com/stretchr/testify v1.8.0
+	gitlab.alpinelinux.org/alpine/go v0.6.0
 	go.lsp.dev/uri v0.3.0
 	golang.org/x/build v0.0.0-20220326001204-1a930a73d482
 	golang.org/x/sync v0.0.0-20220513210516-0976fa681c29
@@ -34,6 +34,7 @@ require (
 	github.com/Azure/go-autorest/autorest/date v0.3.0 // indirect
 	github.com/Azure/go-autorest/logger v0.2.1 // indirect
 	github.com/Azure/go-autorest/tracing v0.6.0 // indirect
+	github.com/MakeNowJust/heredoc v1.0.0 // indirect
 	github.com/PuerkitoBio/purell v1.1.1 // indirect
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d // indirect
@@ -102,6 +103,7 @@ require (
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
+	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gotest.tools/v3 v3.1.0 // indirect
 )
