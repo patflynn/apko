@@ -23,7 +23,7 @@ require (
 	gitlab.alpinelinux.org/alpine/go v0.6.0
 	go.lsp.dev/uri v0.3.0
 	golang.org/x/build v0.0.0-20220928220451-9294235e16f5
-	golang.org/x/sync v0.0.0-20220929204114-8fcdb60fdcc0
+	golang.org/x/sync v0.1.0
 	gopkg.in/yaml.v3 v3.0.1
 	sigs.k8s.io/release-utils v0.7.3
 )
